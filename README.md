@@ -1,2 +1,3 @@
 # dl-typing
- this based on React js. 
+ This is web Application based on React js.
+ this is typing web application for test practice.
